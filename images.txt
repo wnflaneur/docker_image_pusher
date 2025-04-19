@@ -3,3 +3,4 @@ wazuh/wazuh-manager:4.11.1
 wazuh/wazuh-indexer:4.11.1 
 wazuh/wazuh-dashboard:4.11.1
 selenium/standalone-chrome
+handei/hiddify
