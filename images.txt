@@ -4,3 +4,4 @@ wazuh/wazuh-indexer:4.11.1
 wazuh/wazuh-dashboard:4.11.1
 selenium/standalone-chrome
 handei/hiddify
+hagb/docker-atrust
