@@ -5,3 +5,4 @@ wazuh/wazuh-dashboard:4.11.1
 selenium/standalone-chrome
 handei/hiddify
 hagb/docker-atrust
+johngong/baidunetdisk:latest
