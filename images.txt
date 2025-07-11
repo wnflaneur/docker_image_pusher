@@ -6,3 +6,4 @@ selenium/standalone-chrome
 handei/hiddify
 hagb/docker-atrust
 johngong/baidunetdisk:latest
+rabbitmq:4.1.2-management
