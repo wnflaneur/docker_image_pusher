@@ -7,3 +7,4 @@ handei/hiddify
 hagb/docker-atrust
 johngong/baidunetdisk:latest
 rabbitmq:4.1.2-management
+jozo/pyqt5:qml
